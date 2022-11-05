@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\PROGRAMACION\NIVEL_2\Seguridad Informatica\Encryption_AES\Encryption_AES\bin\Debug\Encryption_AES.exe.config
+C:\Users\user\Desktop\PROGRAMACION\NIVEL_2\Seguridad Informatica\Encryption_AES\Encryption_AES\bin\Debug\Encryption_AES.exe
+C:\Users\user\Desktop\PROGRAMACION\NIVEL_2\Seguridad Informatica\Encryption_AES\Encryption_AES\bin\Debug\Encryption_AES.pdb
+C:\Users\user\Desktop\PROGRAMACION\NIVEL_2\Seguridad Informatica\Encryption_AES\Encryption_AES\obj\Debug\Encryption_AES.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\PROGRAMACION\NIVEL_2\Seguridad Informatica\Encryption_AES\Encryption_AES\obj\Debug\Encryption_AES.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\PROGRAMACION\NIVEL_2\Seguridad Informatica\Encryption_AES\Encryption_AES\obj\Debug\Encryption_AES.Form1.resources
+C:\Users\user\Desktop\PROGRAMACION\NIVEL_2\Seguridad Informatica\Encryption_AES\Encryption_AES\obj\Debug\Encryption_AES.Properties.Resources.resources
+C:\Users\user\Desktop\PROGRAMACION\NIVEL_2\Seguridad Informatica\Encryption_AES\Encryption_AES\obj\Debug\Encryption_AES.csproj.GenerateResource.cache
+C:\Users\user\Desktop\PROGRAMACION\NIVEL_2\Seguridad Informatica\Encryption_AES\Encryption_AES\obj\Debug\Encryption_AES.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PROGRAMACION\NIVEL_2\Seguridad Informatica\Encryption_AES\Encryption_AES\obj\Debug\Encryption_AES.exe
+C:\Users\user\Desktop\PROGRAMACION\NIVEL_2\Seguridad Informatica\Encryption_AES\Encryption_AES\obj\Debug\Encryption_AES.pdb
